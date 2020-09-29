@@ -1,0 +1,9 @@
+.header{
+    grid-area: head;
+    background: orange;
+    height: 10vh;
+  }
+
+  .header h1{
+    text-align: center;
+  }

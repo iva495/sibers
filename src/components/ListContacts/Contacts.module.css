@@ -1,0 +1,20 @@
+.contacts{
+    padding: 3%;
+    width: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.contacts input {
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 2%;
+    height: 3vh;
+    padding-left: 10px;
+    border: 2px solid #7BA7AB;
+    border-radius: 5px;
+    outline: none;
+    background: #F9F0DA;
+    color: #9E9C9C;
+  }
